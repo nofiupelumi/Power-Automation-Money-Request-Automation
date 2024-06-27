@@ -45,7 +45,7 @@ Below are the screenshots of each step in the Power Automate flow:
 ![If True (Approved)](images-condition-true-approved.png)
 
 #### If False (Rejected)
-![If False (Rejected)](images-condition-false-rejected.png)
+![If False (Rejected)](images-condition-true-approved.png)
 
 ### 4. Send an approval email
 ![Send an approval email](images-send-approval-email.png)
